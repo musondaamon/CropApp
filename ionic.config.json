@@ -1,0 +1,7 @@
+{
+  "name": "CropApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
