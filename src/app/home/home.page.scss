@@ -9,3 +9,13 @@
   --ion-color-light: #e74c3c;
   --ion-color-dark: #222222;
 }
+
+ion-card{
+  background: none;
+  box-shadow: none;
+  margin-top: 5px;
+}
+
+ion-card-subtitle{
+  text-transform: none;
+}
